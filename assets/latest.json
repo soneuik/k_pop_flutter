@@ -1,0 +1,2160 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "_XVvJ1HiqDA5jnlf2B_NLNXCPv0",
+  "prevPageToken": "CKwCEAE",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KQ9qWD4WOrcChSJUyV1yHW0ws5E",
+      "id": "UExnQVd5bnZLREVEVmFJTG41dmlMQ0VsR1AwdTBzdldpUy40MzFDQTFCQjMwMEZGRjI3",
+      "snippet": {
+        "publishedAt": "2018-05-18T09:01:58Z",
+        "channelId": "UCrLRaBBdADYHTInXNYTrOSw",
+        "title": "BTS (방탄소년단) 'FAKE LOVE' Official MV",
+        "description": "BTS (방탄소년단) 'FAKE LOVE' Official MV\n\n\nDirector : YongSeok Choi (Lumpens)\nAssistant Director : WonJu Lee, Guzza, HyeJeong Park, MinJe Jeong (Lumpens)\nDirector of Photography : HyunWoo Nam(GDW)\nGaffer : HyunSuk Song (Real Lighting)\nArt Director : JinSil Park Bona Kim (MU:E)\nConstruction Manager : SukKi Song \nSpecial Effect : Demolition\n\n\nBigHit Entertainment. Rights are reserved selectively in the video.\nUnauthorized reproduction is a violation of applicable laws. \nManufactured by BigHit Entertainment, Seoul, Korea\n\n\nConnect with BTS:\nhttp://www.ibighit.com \nhttp://twitter.com/BTS_bighit \nhttp://twitter.com/BTS_twt \nhttps://www.facebook.com/ibighit/\nhttp://www.facebook.com/bangtan.official\nhttp://instagram.com/BTS.bighitofficial\nhttp://weibo.com/BTSbighit\n\nBU content certified by Big Hit Entertainment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7C2z4GqqS5E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7C2z4GqqS5E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7C2z4GqqS5E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7C2z4GqqS5E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7C2z4GqqS5E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "eriye900",
+        "playlistId": "PLgAWynvKDEDVaILn5viLCElGP0u0svWiS",
+        "position": 300,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7C2z4GqqS5E"
+        }
+      },
+      "contentDetails": {
+        "videoId": "7C2z4GqqS5E",
+        "videoPublishedAt": "2018-05-18T09:00:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SvdensusRWrXE6Dnko15yoiRbuM",
+      "id": "UExnQVd5bnZLREVEVmFJTG41dmlMQ0VsR1AwdTBzdldpUy5CRDY1OUVGNzEwNzEwOTA5",
+      "snippet": {
+        "publishedAt": "2018-05-02T17:51:39Z",
+        "channelId": "UCrLRaBBdADYHTInXNYTrOSw",
+        "title": "(여자)아이들((G)I-DLE) - 'LATATA' Official Music Video",
+        "description": "Apple Music: https://apple.co/2HJXflk\nSpotify: https://spoti.fi/2KHgPwa\nMelon: https://bit.ly/2rhaHlp\n\n(G)-I-DLE Official YouTube: http://www.youtube.com/gidleofficial\n(G)-I-DLE Official Twitter: https://twitter.com/G_I_DLE\n(G)-I-DLE Official Facebook: https://facebook.com/G.I.DLE.CUBE\n(G)-I-DLE Official Instagram: https://instagram.com/official_g_i_dle\n(G)-I-DLE Official Fansite: http://cafe.daum.net/cube-g-i-dle\n(G)-I-DLE Official Weibo: http://weibo.com/cubegidle\n\nⓒ All Rights Reserved CUBE Entertainment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p4RIhcY7V3c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p4RIhcY7V3c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p4RIhcY7V3c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/p4RIhcY7V3c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/p4RIhcY7V3c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "eriye900",
+        "playlistId": "PLgAWynvKDEDVaILn5viLCElGP0u0svWiS",
+        "position": 301,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "p4RIhcY7V3c"
+        }
+      },
+      "contentDetails": {
+        "videoId": "p4RIhcY7V3c",
+        "videoPublishedAt": "2018-05-02T09:00:04Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Sq8FmGH3nbxa3s65YjxKJUsqWA4",
+      "id": "UExnQVd5bnZLREVEVmFJTG41dmlMQ0VsR1AwdTBzdldpUy4wOTBFN0REQjNDNzk4NDFB",
+      "snippet": {
+        "publishedAt": "2018-04-30T18:02:54Z",
+        "channelId": "UCrLRaBBdADYHTInXNYTrOSw",
+        "title": "여자친구 GFRIEND - 밤 (Time For The Moon Night) M/V",
+        "description": "#여자친구 #GFRIEND #밤 #Time_For_The_Moon_Night\nGFRIEND 여자친구 facebook: http://www.facebook.com/gfrdofficial\nGFRIEND 여자친구 twitter: http://twitter.com/gfrdofficial\nGFRIEND 여자친구 instagram: http://instagram.com/gfriendofficial\nGFRIEND 여자친구 official fancafe: http://cafe.daum.net/gfrdofficial",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Oyf5o1zWMd0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Oyf5o1zWMd0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Oyf5o1zWMd0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Oyf5o1zWMd0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Oyf5o1zWMd0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "eriye900",
+        "playlistId": "PLgAWynvKDEDVaILn5viLCElGP0u0svWiS",
+        "position": 302,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Oyf5o1zWMd0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Oyf5o1zWMd0",
+        "videoPublishedAt": "2018-04-30T09:00:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xmZaQ2wzIbkHBO6nHGfYlsSOYmI",
+      "id": "UExnQVd5bnZLREVEVmFJTG41dmlMQ0VsR1AwdTBzdldpUy4wRTFGMTBFQzc1RTdDMDRF",
+      "snippet": {
+        "publishedAt": "2018-04-09T09:10:16Z",
+        "channelId": "UCrLRaBBdADYHTInXNYTrOSw",
+        "title": "TWICE \"What is Love?\" M/V",
+        "description": "TWICE(트와이스) \"What is Love?\" M/V\n\nSpotify https://goo.gl/jVLYYY\niTunes & Apple Music https://goo.gl/DKyKZf\nGoogle Music https://goo.gl/DxAtPd\n\nTWICE Official YouTube: http://www.youtube.com/c/TWICEonAir\nTWICE Official Facebook: http://www.facebook.com/JYPETWICE\nTWICE Official Twitter: http://www.twitter.com/JYPETWICE\nTWICE Official Instagram: http://www.instagram.com/TWICETAGRAM\nTWICE Official Homepage: http://TWICE.jype.com\nTWICE Official Fan's: http://fans.jype.com/TWICE\n\n#TWICE #WhatisLove\n\nⓒ 2018 JYP Entertainment. All Rights Reserved",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i0p1bmr0EmE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i0p1bmr0EmE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i0p1bmr0EmE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i0p1bmr0EmE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "eriye900",
+        "playlistId": "PLgAWynvKDEDVaILn5viLCElGP0u0svWiS",
+        "position": 303,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "i0p1bmr0EmE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "i0p1bmr0EmE",
+        "videoPublishedAt": "2018-04-09T08:59:51Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3jahK38YCCVQ6S8LM8W7sQDYzGc",
+      "id": "UExnQVd5bnZLREVEVmFJTG41dmlMQ0VsR1AwdTBzdldpUy42RjUyMjMxMUE3QUFGMzAy",
+      "snippet": {
+        "publishedAt": "2018-04-02T09:15:23Z",
+        "channelId": "UCrLRaBBdADYHTInXNYTrOSw",
+        "title": "PENTAGON(펜타곤) - '빛나리(Shine)' Official Music Video",
+        "description": "PENTAGON(펜타곤) - '빛나리(Shine)' Official Music Video\n\nApple Music: https://apple.co/2GsDLNi\nSpotify: https://spoti.fi/2JlCPwb\nMelon: https://goo.gl/szKxRE\n\nPENTAGON Official Youtube: https://www.youtube.com/c/officialpen...\nPENTAGON Official Facebook: https://www.facebook.com/pentagon.uni...\nPENTAGON Official Twitter: https://twitter.com/CUBE_PTG\nPENTAGON Official Instagram: https://www.instagram.com/CUBE_PTG/\nPENTAGON Official Fansite: http://cafe.daum.net/cube-pentagon\n\nⓒ All Rights Reserved CUBE Entertainment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z4dH6hEMuwk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z4dH6hEMuwk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z4dH6hEMuwk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/z4dH6hEMuwk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/z4dH6hEMuwk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "eriye900",
+        "playlistId": "PLgAWynvKDEDVaILn5viLCElGP0u0svWiS",
+        "position": 304,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "z4dH6hEMuwk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "z4dH6hEMuwk",
+        "videoPublishedAt": "2018-04-02T09:00:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-iLUpbpCi9mcm54rUOKAwXASiu0",
+      "id": "UExnQVd5bnZLREVEVmFJTG41dmlMQ0VsR1AwdTBzdldpUy4wRDYzRTZCOTg1NjZFMDM2",
+      "snippet": {
+        "publishedAt": "2018-03-07T17:24:57Z",
+        "channelId": "UCrLRaBBdADYHTInXNYTrOSw",
+        "title": "[MV] 마마무(MAMAMOO) - 별이 빛나는 밤(Starry night)",
+        "description": ".\n[MV] 마마무(MAMAMOO) - 별이 빛나는 밤(Starry night)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LjUXm0Zy_dk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LjUXm0Zy_dk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LjUXm0Zy_dk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LjUXm0Zy_dk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LjUXm0Zy_dk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "eriye900",
+        "playlistId": "PLgAWynvKDEDVaILn5viLCElGP0u0svWiS",
+        "position": 305,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LjUXm0Zy_dk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "LjUXm0Zy_dk",
+        "videoPublishedAt": "2018-03-07T09:00:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fc7-Y3QtaivynWdTwIMFjOobk7o",
+      "id": "UExnQVd5bnZLREVEVmFJTG41dmlMQ0VsR1AwdTBzdldpUy5EMTE3NjIwOThFMjUyREM0",
+      "snippet": {
+        "publishedAt": "2018-02-05T14:02:31Z",
+        "channelId": "UCrLRaBBdADYHTInXNYTrOSw",
+        "title": "[M/V] SEVENTEEN(세븐틴) - 고맙다(THANKS)",
+        "description": "세븐틴의 이번 스페셜 앨범은 ‘2017 세븐틴 프로젝트’의 완결인 ‘TEEN, AGE’의 확장판으로 타이틀곡 ‘고맙다’는 ‘2017 세븐틴 프로젝트’를 완벽하게 마무리 지을 뿐만 아니라, 팬들에 대한 특별한 감사를 전한다는데 의미가 있다. \n청량한 기타 사운드 기반의 퓨처 베이스 장르의 곡으로 비록 지금은 내 곁에 없지만 지난 시간 우리와 함께 하며 좋은 추억을 만들어준 대상에게 고맙다는 내용을 담았다.\n\n\nSEVENTEEN 'DIRECTOR'S CUT' on iTunes : https://itunes.apple.com/us/album/thanks/1344751461?i=1344751465\n\n\nSEVENTEEN Official Homepage: http://www.seventeen-17.com\nSEVENTEEN Official Facebook: https://www.facebook.com/seventeennews\nSEVENTEEN Official Twitter: https://twitter.com/pledis_17\nSEVENTEEN Official Instagram: http://www.instagram.com/saythename_17\nSEVENTEEN Official Fancafe: http://cafe.daum.net/pledis-17\n\n\nⓒ Pledis Entertainment. All Rights Reserved",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gZItyr1SNjU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gZItyr1SNjU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gZItyr1SNjU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gZItyr1SNjU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gZItyr1SNjU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "eriye900",
+        "playlistId": "PLgAWynvKDEDVaILn5viLCElGP0u0svWiS",
+        "position": 306,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gZItyr1SNjU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "gZItyr1SNjU",
+        "videoPublishedAt": "2018-02-05T09:00:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "37FBe0dlQYchhRL9IPwulwrP6Zg",
+      "id": "UExnQVd5bnZLREVEVmFJTG41dmlMQ0VsR1AwdTBzdldpUy40Q0ZCRkZCQzZEQkNENTUz",
+      "snippet": {
+        "publishedAt": "2018-01-29T16:40:41Z",
+        "channelId": "UCrLRaBBdADYHTInXNYTrOSw",
+        "title": "Red Velvet 레드벨벳 'Bad Boy' MV",
+        "description": "Red Velvet's 2nd Album Repackage \"The Perfect Red Velvet\" has been released.\nListen and download on iTunes & Apple Music, Spotify, and Google Play Music http://smarturl.it/ThePerfectRedVelvet\n\n[Tracklist]\n01 Bad Boy\n02 All Right\n03 피카부 (Peek-A-Boo)\n04 봐 (Look)\n05 I Just\n06 Kingdom Come\n07 Time To Love\n08 두 번째 데이트 (My Second Date)\n09 Attaboy\n10 Perfect 10\n11 About Love\n12 달빛 소리 (Moonlight Melody)\n\nRed Velvet Official\nhttp://redvelvet.smtown.com\nhttp://www.youtube.com/redvelvet \nhttp://www.facebook.com/RedVelvet\nhttp://www.instagram.com/redvelvet.smtown\nhttps://twitter.com/RVsmtown\n\nRed Velvet 레드벨벳 'Bad Boy' MV ℗ S.M.Entertainment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J_CFBjAyPWE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J_CFBjAyPWE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J_CFBjAyPWE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/J_CFBjAyPWE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/J_CFBjAyPWE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "eriye900",
+        "playlistId": "PLgAWynvKDEDVaILn5viLCElGP0u0svWiS",
+        "position": 307,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "J_CFBjAyPWE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "J_CFBjAyPWE",
+        "videoPublishedAt": "2018-01-29T09:00:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wgk4K39x4my-2HgvTBAs0d_F6P8",
+      "id": "UExnQVd5bnZLREVEVmFJTG41dmlMQ0VsR1AwdTBzdldpUy5GNTkzMDgxQkVBQTc0RjI4",
+      "snippet": {
+        "publishedAt": "2018-01-25T09:49:10Z",
+        "channelId": "UCrLRaBBdADYHTInXNYTrOSw",
+        "title": "iKON - ‘사랑을 했다(LOVE SCENARIO)’ M/V",
+        "description": "#iKON #아이콘 #사랑을했다  #2ndALBUM #Return #LOVESCENARIO #YG\n\nAvailable on iTunes & Apple Music @  http://smarturl.it/iKON_LS\n\nAvailable on Spotify @ http://smarturl.it/iKON_LS/spotify\n\nAlbums Available @ \nYG E-SHOP: https://goo.gl/LE4wqr\nAmazon US: https://goo.gl/W7BFSX \nAmazon JP: https://goo.gl/MunRjP\n\nMore about iKON @\nhttp://www.yg-ikon.com/\nhttp://www.facebook.com/OfficialYGiKON\nhttp://www.youtube.com/OfficialYGiKON\nhttp://www.sptfy.com/iKON\nhttp://www.weibo.com/iKONOFFICIAL\nhttp://www.twitter.com/ygent_official\nhttps://itunes.apple.com/artist/ikon/id1044506362",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vecSVX1QYbQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vecSVX1QYbQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vecSVX1QYbQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vecSVX1QYbQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vecSVX1QYbQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "eriye900",
+        "playlistId": "PLgAWynvKDEDVaILn5viLCElGP0u0svWiS",
+        "position": 308,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vecSVX1QYbQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "vecSVX1QYbQ",
+        "videoPublishedAt": "2018-01-25T09:00:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZgGbzsxJsoH9yr-trEncP5MsKMY",
+      "id": "UExnQVd5bnZLREVEVmFJTG41dmlMQ0VsR1AwdTBzdldpUy5BREJBNDQ2RTE2ODYzOTJC",
+      "snippet": {
+        "publishedAt": "2018-01-09T09:36:22Z",
+        "channelId": "UCrLRaBBdADYHTInXNYTrOSw",
+        "title": "(MV)오마이걸(OH MY GIRL)_비밀정원(Secret Garden)",
+        "description": "OH MY GIRL 5th Mini Album [Secret Garden] has been released.\nListen and download on iTunes&Spotify\niTunes -  https://goo.gl/C2YnwJ\nSpotify -  https://goo.gl/p9LGES\n#오마이걸 #OHMYGIRL #OMG #비밀정원 #SecretGarden\n\nOH MY GIRL Official\nhttps://www.ohmy-girl.com\nhttps://youtube.com/ohmygirl\nhttps://instagram.com/wm_ohmygirl \nhttps://twitter.com/wm_ohmygirl \nhttps://www.facebook.com/official.ohmygirl",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Lznx5A7fNto/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Lznx5A7fNto/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Lznx5A7fNto/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Lznx5A7fNto/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "eriye900",
+        "playlistId": "PLgAWynvKDEDVaILn5viLCElGP0u0svWiS",
+        "position": 309,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Lznx5A7fNto"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Lznx5A7fNto",
+        "videoPublishedAt": "2018-01-09T09:00:07Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-oO8IK5Ygo_SzPpEXSg8-JdQsy4",
+      "id": "UExnQVd5bnZLREVEVmFJTG41dmlMQ0VsR1AwdTBzdldpUy5GRUUwMzYzRUNGQ0ZCMzAw",
+      "snippet": {
+        "publishedAt": "2018-01-03T10:33:01Z",
+        "channelId": "UCrLRaBBdADYHTInXNYTrOSw",
+        "title": "[MV] MOMOLAND (모모랜드) _ BBoom BBoom (뿜뿜)",
+        "description": "[MV] MOMOLAND (모모랜드) _ BBoom BBoom (뿜뿜)\n\n*English subtitles are now available.   \n(Please click on 'CC' button or activate 'Interactive Transcript' function)  \n\n[Notice] 1theK YouTube is also an official channel for the MV, and music shows will count the views from this channel too.\n[공지] 1theK YouTube는 MV를 유통하는 공식 채널로, 1theK에 업로드된 MV 조회수 또한 음악방송 순위에 반영됩니다.\n\n[MOMOLAND]\n\nThe best rookie MOMOLAND makes a grand comeback with its new album ‘GREAT!’ after releasing a series of songs including its debut album ‘Jjan! Koong! Kwang!’, ‘Wonderful Love’ and ‘Freeze’ in 2017.   The title track ‘BBoom BBoom’, meaning ‘giving off charms’, describes an interesting story ‘to show off my charm so that the person I have a crush on likes me.’    \n\n:: iTunes :\n\n#MOMOLAND#모모랜드#BBoom_BBoom#뿜뿜#Newrelease#MV#1theK#원더케이\n\n▶1theK Originals : https://www.youtube.com/channel/UCqq-ovGE01ErlXakPihhKDA\n▶1theK FB  : http://www.facebook.com/1theK\n▶1theK TW : https://twitter.com/1theK\n▶1theK Kakao : https://goo.gl/otRpZc",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JQGRg8XBnB4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JQGRg8XBnB4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JQGRg8XBnB4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JQGRg8XBnB4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JQGRg8XBnB4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "eriye900",
+        "playlistId": "PLgAWynvKDEDVaILn5viLCElGP0u0svWiS",
+        "position": 310,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JQGRg8XBnB4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "JQGRg8XBnB4",
+        "videoPublishedAt": "2018-01-03T09:00:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hErdgO1B9HQsaUKWxl4c_usqY7Q",
+      "id": "UExnQVd5bnZLREVEVmFJTG41dmlMQ0VsR1AwdTBzdldpUy43NDA2MzlGNDExNEI0NTU1",
+      "snippet": {
+        "publishedAt": "2017-12-26T21:18:40Z",
+        "channelId": "UCrLRaBBdADYHTInXNYTrOSw",
+        "title": "EXO 엑소 'Universe' MV",
+        "description": "EXO's Winter Special Album \"Universe\" has been released.\nListen and download on iTunes & Apple Music, Spotify, and Google Play Music http://smarturl.it/EXOUniverse2017\n#EXO #엑소 #WinterSpecialAlbum #Universe #171226 #6PM\n\n[Tracklist]\n01 Universe\n02 為心導航 (Universe)\n03 지나갈 테니 (Been Through)\n04 Stay\n05 Fall\n06 Good Night\n07 Lights Out\n08 Universe (CD Version)\n\nEXO Official\nhttp://exo.smtown.com\nhttp://www.youtube.com/weareoneEXO\nhttp://www.facebook.com/weareoneEXO\nhttp://www.instagram.com/weareone.exo\nhttp://twitter.com/weareoneEXO\n\nEXO 엑소 'Universe' MV ℗ S.M.Entertainment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/leu-cTvMWTA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/leu-cTvMWTA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/leu-cTvMWTA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/leu-cTvMWTA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/leu-cTvMWTA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "eriye900",
+        "playlistId": "PLgAWynvKDEDVaILn5viLCElGP0u0svWiS",
+        "position": 311,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "leu-cTvMWTA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "leu-cTvMWTA",
+        "videoPublishedAt": "2017-12-26T09:00:04Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ramu87H3xL2IR5_Zk9b0toPiSa4",
+      "id": "UExnQVd5bnZLREVEVmFJTG41dmlMQ0VsR1AwdTBzdldpUy42QkEyMENENTVCNkU4NERB",
+      "snippet": {
+        "publishedAt": "2017-12-26T23:15:54Z",
+        "channelId": "UCrLRaBBdADYHTInXNYTrOSw",
+        "title": "Wanna One (워너원) - 'Beautiful (뷰티풀)' M/V (Performance ver.)",
+        "description": "워너원, 하나가 되기 전 우리들의 이야기.\n데뷔앨범 ’TO BE ONE’의 프리퀄 리패키지 앨범 『1-1=0 (NOTHING WITHOUT YOU)』\nBeautiful 은 혼자였던 과거의 두려움과 간절한 그리움 그리고 미래에 대한 갈망을 담았으며,\n워너원의 한층 성숙해진 감성을 담은 곡이다.\n'TO BE ONE' Prequel Repackage album 『1-1=0 (NOTHING WITHOUT YOU)』\nThe title track 'Beautiful' talks about the fear and longing for the past and the yearning for the future.\nAnd it shows more mature aspect of Wanna One.\nMore about Wanna One @\nOfficial Facebook: https://www.facebook.com/WannaOne.official\nOfficial Twitter: https://twitter.com/WannaOne_twt\nOfficial Instagram: https://www.instagram.com/wannaone.official\nOfficial Post: http://post.naver.com/wannaone_official\nOfficial fan cafe: http://cafe.daum.net/WannaOneOfficial\n\n\nAvailable on iTunes, Apple Music : http://apple.co/2Bqg8CQ\nListen on Spotify : http://spoti.fi/2icrOnX\n\n\nCJ E&M Music은 아시아 No.1 엔터테인먼트 기업인 CJ E&M의 음악사업 브랜드로 음원/음반의 투자/제작/유통부터 콘서트/페스티벌 개최까지 포함하고 있습니다. CJ E&M MUSIC과 함께 하는 K-POP 아티스트들의 신곡과 뮤직비디오, 미공개 독점 영상 등을 이곳 YOUTUBE 채널에서 가장 먼저 만나보세요.\n\nCJ E&M Music is a music business brand of CJ E&M, Asia's No.1 entertainment company. CJ E&M Music covers investment, production and distribution of album and also provides the best music festival and concerts. Meet the K-POP artists' brand new music videos and exclusive video clips on the official YouTube of CJ E&M Music.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xXWyJEo6VgA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xXWyJEo6VgA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xXWyJEo6VgA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xXWyJEo6VgA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xXWyJEo6VgA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "eriye900",
+        "playlistId": "PLgAWynvKDEDVaILn5viLCElGP0u0svWiS",
+        "position": 312,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xXWyJEo6VgA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "xXWyJEo6VgA",
+        "videoPublishedAt": "2017-11-21T06:00:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xBhsNC0dtRdqvk-eAx4RTIO04ck",
+      "id": "UExnQVd5bnZLREVEVmFJTG41dmlMQ0VsR1AwdTBzdldpUy5CRDI1OEVFQzkwQzU3N0JC",
+      "snippet": {
+        "publishedAt": "2017-11-17T09:39:11Z",
+        "channelId": "UCrLRaBBdADYHTInXNYTrOSw",
+        "title": "Red Velvet 레드벨벳 '피카부 (Peek-A-Boo)' MV",
+        "description": "Red Velvet's 2nd full length album \"Perfect Velvet\" has been released.\nListen and download on iTunes & Apple Music, Spotify, and Google Play Music http://smarturl.it/Perfect_Velvet\n\n[Tracklist]\n01 피카부 (Peek-A-Boo)\n02 봐 (Look)\n03 I Just\n04 Kingdom Come\n05 두 번째 데이트 (My Second Date)\n06 Attaboy\n07 Perfect 10\n08 About Love\n09 달빛 소리 (Moonlight Melody)\n\n#RedVelvet #레드벨벳 #The2ndAlbum #PerfectVelvet #TitleTrack #피카부 #PeekABoo #Release #171117 #6PM\n\nRed Velvet Official\nhttp://redvelvet.smtown.com\nhttp://www.youtube.com/redvelvet \nhttp://www.facebook.com/RedVelvet\nhttp://www.instagram.com/redvelvet.smtown\nhttp://twitter.com/RVsmtown\n\nRed Velvet 레드벨벳 '피카부 (Peek-A-Boo)' MV ℗ S.M.Entertainment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6uJf2IT2Zh8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6uJf2IT2Zh8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6uJf2IT2Zh8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6uJf2IT2Zh8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6uJf2IT2Zh8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "eriye900",
+        "playlistId": "PLgAWynvKDEDVaILn5viLCElGP0u0svWiS",
+        "position": 313,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6uJf2IT2Zh8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "6uJf2IT2Zh8",
+        "videoPublishedAt": "2017-11-17T09:00:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tHrWdb1qFIrCmYiEsY_svMqozeE",
+      "id": "UExnQVd5bnZLREVEVmFJTG41dmlMQ0VsR1AwdTBzdldpUy4wOUYzRjY3MDg3MDIwQjdD",
+      "snippet": {
+        "publishedAt": "2017-11-01T11:31:55Z",
+        "channelId": "UCrLRaBBdADYHTInXNYTrOSw",
+        "title": "ASTRO 아스트로 - 니가 불어와(Crazy Sexy Cool) M/V",
+        "description": "▶ ASTRO Facebook : http://facebook.com/offclASTRO\n▶ ASTRO Twitter : http://twitter.com/offclASTRO\n▶ ASTRO Instagram : https://www.instagram.com/officialastro\n▶ ASTRO Weibo : http://weibo.com/officialASTRO\n▶ ASTRO Fancafe : http://cafe.daum.net/fantagio-boys",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xeUx0AN2kCA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xeUx0AN2kCA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xeUx0AN2kCA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xeUx0AN2kCA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xeUx0AN2kCA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "eriye900",
+        "playlistId": "PLgAWynvKDEDVaILn5viLCElGP0u0svWiS",
+        "position": 314,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xeUx0AN2kCA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "xeUx0AN2kCA",
+        "videoPublishedAt": "2017-11-01T09:00:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9Vf-Z0e5Xad8cCqzz3RE4sQJnnU",
+      "id": "UExnQVd5bnZLREVEVmFJTG41dmlMQ0VsR1AwdTBzdldpUy5ERjk4QURCM0U1OUY3REE2",
+      "snippet": {
+        "publishedAt": "2017-10-30T10:04:41Z",
+        "channelId": "UCrLRaBBdADYHTInXNYTrOSw",
+        "title": "TWICE \"LIKEY\" M/V",
+        "description": "TWICE(트와이스) \"LIKEY\" M/V\n\nThe 5th Mini Album \"What is Love?\" \nSpotify https://goo.gl/jVLYYY\niTunes & Apple Music https://goo.gl/DKyKZf\n\nThe 1st Album \"twicetagram\" \nSpotify https://goo.gl/UgKDHe\niTunes & Apple Music\nhttps://itunes.apple.com/album/twicetagram/id1303321512\n\nTWICE Official YouTube: http://www.youtube.com/c/TWICEonAir\nTWICE Official Facebook: http://www.facebook.com/JYPETWICE\nTWICE Official Twitter: http://www.twitter.com/JYPETWICE\nTWICE Official Instagram: http://www.instagram.com/TWICETAGRAM\nTWICE Official Homepage: http://TWICE.jype.com\nTWICE Official Fan's: http://fans.jype.com/TWICE\n\n#TWICE #LIKEY\n\nⓒ 2017 JYP Entertainment. All Rights Reserved",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V2hlQkVJZhE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V2hlQkVJZhE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V2hlQkVJZhE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V2hlQkVJZhE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "eriye900",
+        "playlistId": "PLgAWynvKDEDVaILn5viLCElGP0u0svWiS",
+        "position": 315,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "V2hlQkVJZhE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "V2hlQkVJZhE",
+        "videoPublishedAt": "2017-10-30T09:00:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Zds3kZaPawYDmxAbUiv7UFFdgzM",
+      "id": "UExnQVd5bnZLREVEVmFJTG41dmlMQ0VsR1AwdTBzdldpUy41MjQ5MzBDNDJCNDU1OEE2",
+      "snippet": {
+        "publishedAt": "2017-10-16T09:17:52Z",
+        "channelId": "UCrLRaBBdADYHTInXNYTrOSw",
+        "title": "TAEMIN 태민 'MOVE' #1 MV",
+        "description": "TAEMIN's 2nd full length album \"MOVE\" has been released.\nListen and download on iTunes & Apple Music, Spotify, and Google Play Music http://smarturl.it/TAEMIN_MOVE\n#TAEMIN #태민 #テミン #MOVE #무브 #Release #171016 #6PM\n\n[Tracklist]\n01 MOVE\n02 Love\n03 Crazy 4 U\n04 Heart Stop (Feat. SEULGI of Red Velvet)\n05 Rise (이카루스)\n06 Thirsty\n07 미로 (Stone Heart)\n08 Back To You\n09 Flame of Love (Korean Ver.) (Bonus Track)\n\nTAEMIN Official\nhttp://taemin.smtown.com\nhttp://www.youtube.com/shinee\nhttp://www.facebook.com/shinee\nhttp://www.instagram.com/shinee\nhttps://twitter.com/SHINee\n\nTAEMIN 태민 'MOVE' #1 MV ℗ S.M.Entertainment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rcEyUNeZqmY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rcEyUNeZqmY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rcEyUNeZqmY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rcEyUNeZqmY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rcEyUNeZqmY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "eriye900",
+        "playlistId": "PLgAWynvKDEDVaILn5viLCElGP0u0svWiS",
+        "position": 316,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rcEyUNeZqmY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "rcEyUNeZqmY",
+        "videoPublishedAt": "2017-10-16T09:00:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "89DbFVKu1Z4LBhESv3Yzi4nxwQU",
+      "id": "UExnQVd5bnZLREVEVmFJTG41dmlMQ0VsR1AwdTBzdldpUy5EQzRBQUI2MEU2OTA4Rjk4",
+      "snippet": {
+        "publishedAt": "2017-09-18T13:04:01Z",
+        "channelId": "UCrLRaBBdADYHTInXNYTrOSw",
+        "title": "BTS (방탄소년단) 'DNA' Official MV",
+        "description": "\u200bBTS (방탄소년단) 'DNA' Official MV\n\n\n\nCredits:\n\n\nDirector : YongSeok Choi (Lumpens)\nAssistant Director : WonJu Lee (Lumpens)\nDirector of Photography : HyunWoo Nam(GDW)\nGaffer : HyunSuk Song (Real Lighting)\nArt Director : JinSil Park (MU:E)\n\n\n\n\nChoreography & performance direction: Sungdeuk Son\nChoreography by: \u200bChristopher Martin, Keone & Mari\n\n\n\nBigHit Entertainment. All rights reserved. \nUnauthorized reproduction is a violation of applicable laws. \nManufactured by BigHit Entertainment, Seoul, Korea.\n\n\n\n\nConnect with BTS:\nhttp://www.ibighit.com \nhttp://twitter.com/BTS_bighit \nhttp://twitter.com/BTS_twt \nhttps://www.facebook.com/ibighit/\nhttp://www.facebook.com/bangtan.official\nhttp://instagram.com/BTS.bighitofficial\nhttp://weibo.com/BTSbighit",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MBdVXkSdhwU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MBdVXkSdhwU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MBdVXkSdhwU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MBdVXkSdhwU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MBdVXkSdhwU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "eriye900",
+        "playlistId": "PLgAWynvKDEDVaILn5viLCElGP0u0svWiS",
+        "position": 317,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MBdVXkSdhwU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "MBdVXkSdhwU",
+        "videoPublishedAt": "2017-09-18T09:00:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XN5cA2U-4nhuDm9etjGzaFH2IUs",
+      "id": "UExnQVd5bnZLREVEVmFJTG41dmlMQ0VsR1AwdTBzdldpUy5BNTNFODA1MzIzNUE1NTZC",
+      "snippet": {
+        "publishedAt": "2017-09-05T09:04:02Z",
+        "channelId": "UCrLRaBBdADYHTInXNYTrOSw",
+        "title": "EXO 엑소 'Power' MV",
+        "description": "EXO's 4th Album Repackage \"THE WAR: The Power of Music\" has been released. \nListen and download on iTunes & Apple Music, Spotify, and Google Play Music: \nKOR Ver. : http://smarturl.it/EXO_TPOM_KOR\nCHN Ver. : http://smarturl.it/EXO_TPOM_CHN\n\n[Tracklist]\n01 전야 (前夜) (The Eve)\n02 Power\n03 Sweet Lies\n04 Ko Ko Bop\n05 What U do?\n06 Forever\n07 부메랑 (Boomerang)\n08 다이아몬드 (Diamond)\n09 너의 손짓 (Touch It)\n10 소름 (Chill)\n11 기억을 걷는 밤 (Walk On Memories)\n12 내가 미쳐 (Going Crazy)\n\nEXO Official\nhttp://exo.smtown.com\nhttp://www.youtube.com/weareoneEXO\nhttp://www.facebook.com/weareoneEXO\nhttp://twitter.com/weareoneexo\nhttp://www.instagram.com/weareone.exo\n\n#EXO #엑소 #The4thAlbumRepackage #THEWARThePowerofMusic #TitleTrack #Power #파워 #Release #170905 #6PM \nEXO 엑소 'Power' MV ℗ S.M.Entertainment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sGRv8ZBLuW0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sGRv8ZBLuW0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sGRv8ZBLuW0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sGRv8ZBLuW0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sGRv8ZBLuW0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "eriye900",
+        "playlistId": "PLgAWynvKDEDVaILn5viLCElGP0u0svWiS",
+        "position": 318,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sGRv8ZBLuW0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "sGRv8ZBLuW0",
+        "videoPublishedAt": "2017-09-05T09:00:04Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "brsTvSGpNWCk9nTMsCIRrKlqZDs",
+      "id": "UExnQVd5bnZLREVEVmFJTG41dmlMQ0VsR1AwdTBzdldpUy5FQUVDQjE0MDNGNkM4OTY5",
+      "snippet": {
+        "publishedAt": "2017-08-24T10:29:46Z",
+        "channelId": "UCrLRaBBdADYHTInXNYTrOSw",
+        "title": "Hoody (후디)  - 한강 (HANGANG) Official Music Video",
+        "description": "Hoody - '한강 (HANGANG)'\n2017. 08. 24. 6PM (18:00)(KST)\n\n-\n\n@ Hoody \nhttps://twitter.com/hoodykim\nhttps://www.facebook.com/HoodyKIM\nhttps://www.instagram.com/hoodykim/\n\n@ AOMG\nhttp://www.aomgofficial.com\nhttp://www.instagram.com/aomgofficial\nhttp://www.twitter.com/aomgofficial\nhttp://www.facebook.com/aomgofficial",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2DXV_t5MlFA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2DXV_t5MlFA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2DXV_t5MlFA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2DXV_t5MlFA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2DXV_t5MlFA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "eriye900",
+        "playlistId": "PLgAWynvKDEDVaILn5viLCElGP0u0svWiS",
+        "position": 319,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2DXV_t5MlFA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "2DXV_t5MlFA",
+        "videoPublishedAt": "2017-08-24T09:00:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IfDU2KCXtlA26E-kVOQvcD6PsX0",
+      "id": "UExnQVd5bnZLREVEVmFJTG41dmlMQ0VsR1AwdTBzdldpUy5EMURFREQ4RUJGQTk5MDg3",
+      "snippet": {
+        "publishedAt": "2017-08-22T03:54:38Z",
+        "channelId": "UCrLRaBBdADYHTInXNYTrOSw",
+        "title": "[MV] SUNMI(선미) _ Gashina(가시나)",
+        "description": "[MV] SUNMI(선미) _ Gashina(가시나)\n\n*English subtitles are now available.   \n(Please click on 'CC' button or activate 'Interactive Transcript' function)\n\n[Notice] 1theK YouTube is also an official channel for the MV, and music shows will count the views from this channel too.\n[공지] 1theK YouTube는 MV를 유통하는 공식 채널로, 1theK에 업로드된 MV 조회수 또한 음악방송 순위에 반영됩니다.\n\n:: iTunes : \nhttps://itunes.apple.com/album/%EA%B0%80%EC%8B%9C%EB%82%98-gashina-single/id1273937457?l=ko&ls=1&app=itunes\n\n▶1theK Originals : https://www.youtube.com/channel/UCqq-ovGE01ErlXakPihhKDA\n▶1theK FB  : http://www.facebook.com/1theK\n▶1theK TW : https://twitter.com/1theK\n▶1theK Kakao : https://goo.gl/otRpZc",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ur0hCdne2-s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ur0hCdne2-s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ur0hCdne2-s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ur0hCdne2-s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ur0hCdne2-s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "eriye900",
+        "playlistId": "PLgAWynvKDEDVaILn5viLCElGP0u0svWiS",
+        "position": 320,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ur0hCdne2-s"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ur0hCdne2-s",
+        "videoPublishedAt": "2017-08-22T03:00:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5jQA9vmEEu4rj2QJnhHVTswMUMg",
+      "id": "UExnQVd5bnZLREVEVmFJTG41dmlMQ0VsR1AwdTBzdldpUy5BRkNEMEFBNjhGNDY3RkNB",
+      "snippet": {
+        "publishedAt": "2017-08-05T15:11:43Z",
+        "channelId": "UCrLRaBBdADYHTInXNYTrOSw",
+        "title": "Girls' Generation 소녀시대 'All Night' MV (Clean Ver.)",
+        "description": "\"All Night\" (Documentary Ver.) MV: https://youtu.be/HzEJPRqLUZE\n\"Holiday\" MV: https://youtu.be/YwN-CN9EjTg\n\nGirls' Generation’s 6th full length album \"Holiday Night\" has been released. \nListen and download on iTunes & Apple Music, Spotify, and Google Play Music http://smarturl.it/HolidayNight\n\n[Tracklist]\n01 Girls Are Back\n02 All Night\n03 Holiday\n04 FAN\n05 Only One\n06 One Last Time\n07 Sweet Talk\n08 Love Is Bitter\n09 오랜 소원 (It's You)\n10 Light Up the Sky\n\nGirls' Generation Official\nhttp://girlsgeneration.smtown.com\nhttp://www.youtube.com/GIRLSGENERATION\nhttp://www.facebook.com/girlsgeneration\nhttp://twitter.com/girlsgeneration\n\n#소녀시대 #GIRLS6ENERAT10N #GIRLSGENERATION #GG #SNSD #HolidayNight #DoubleTitleTracks #AllNight #Holiday #Release #170804 #6PM \nGirls' Generation 소녀시대 'All Night' MV (Clean Ver.)\n ℗ S.M.Entertainment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f4w8IbQTJpY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f4w8IbQTJpY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f4w8IbQTJpY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f4w8IbQTJpY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f4w8IbQTJpY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "eriye900",
+        "playlistId": "PLgAWynvKDEDVaILn5viLCElGP0u0svWiS",
+        "position": 321,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "f4w8IbQTJpY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "f4w8IbQTJpY",
+        "videoPublishedAt": "2017-08-05T15:00:07Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8S9qn5bukxvG9lxBnMjh0uYAvYs",
+      "id": "UExnQVd5bnZLREVEVmFJTG41dmlMQ0VsR1AwdTBzdldpUy5GQTBGRThCQUQwMDFDQzdE",
+      "snippet": {
+        "publishedAt": "2017-08-04T09:13:51Z",
+        "channelId": "UCrLRaBBdADYHTInXNYTrOSw",
+        "title": "Girls' Generation 소녀시대 'Holiday' MV",
+        "description": "\"All Night\" (Clean Ver.) MV: https://youtu.be/f4w8IbQTJpY\n\"All Night\" (Documentary Ver.) MV: https://youtu.be/HzEJPRqLUZE\n\nGirls' Generation’s 6th full length album \"Holiday Night\" has been released. \nListen and download on iTunes & Apple Music, Spotify, and Google Play Music http://smarturl.it/HolidayNight\n\n[Tracklist]\n01 Girls Are Back\n02 All Night\n03 Holiday\n04 FAN\n05 Only One\n06 One Last Time\n07 Sweet Talk\n08 Love Is Bitter\n09 오랜 소원 (It's You)\n10 Light Up the Sky\n\nGirls' Generation Official\nhttp://girlsgeneration.smtown.com\nhttp://www.youtube.com/GIRLSGENERATION\nhttp://www.facebook.com/girlsgeneration\nhttp://twitter.com/girlsgeneration\n\n#소녀시대 #GIRLS6ENERAT10N #GIRLSGENERATION #GG #SNSD #HolidayNight #DoubleTitleTracks #Holiday #AllNight #Release #170804 #6PM \nGirls' Generation 소녀시대 'Holiday' MV ℗ S.M.Entertainment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YwN-CN9EjTg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YwN-CN9EjTg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YwN-CN9EjTg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YwN-CN9EjTg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YwN-CN9EjTg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "eriye900",
+        "playlistId": "PLgAWynvKDEDVaILn5viLCElGP0u0svWiS",
+        "position": 322,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YwN-CN9EjTg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "YwN-CN9EjTg",
+        "videoPublishedAt": "2017-08-04T09:00:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uW44yhn-k8uPyhgWY-e8GBVZXSY",
+      "id": "UExnQVd5bnZLREVEVmFJTG41dmlMQ0VsR1AwdTBzdldpUy41NEJBNDVFQUNFNzM0NTQy",
+      "snippet": {
+        "publishedAt": "2017-08-04T07:13:11Z",
+        "channelId": "UCrLRaBBdADYHTInXNYTrOSw",
+        "title": "WINNER - 'ISLAND' M/V",
+        "description": "Download on iTunes @ http://ssmarturl.it/WINNER_OTF\n\nDownload on AppleMusic @ http://ssmarturl.it/OTF_WINNER\n\nDownload on Spotify @ http://smarturl.it/WINNER_OTF_844\n\nWINNER - 'LOVE ME LOVE ME' M/V @ https://youtu.be/kRj4toENrnA\n\n#WINNER #위너 #OurTwentyFor #OTF #ISLAND #MV #20170844 #4pm #844 #NEWRELEASE #OUTNOW #YG\n\nMore about WINNER @ \nhttp://www.yg-winner.com/\nhttp://www.facebook.com/OfficialYGWINNER\nhttp://www.youtube.com/OfficialYGWINNER\nhttp://sptfy.com/OfficialYGWINNER\nhttp://weibo.com/winnerasia\nhttp://twitter.com/ygent_official",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kRj4toENrnA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kRj4toENrnA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kRj4toENrnA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kRj4toENrnA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kRj4toENrnA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "eriye900",
+        "playlistId": "PLgAWynvKDEDVaILn5viLCElGP0u0svWiS",
+        "position": 323,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kRj4toENrnA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "kRj4toENrnA",
+        "videoPublishedAt": "2017-08-04T07:00:06Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rTDAVxvLC_IspF217I-VIk_dD-U",
+      "id": "UExnQVd5bnZLREVEVmFJTG41dmlMQ0VsR1AwdTBzdldpUy4zNUNCQTg5OThDN0Y2MDFB",
+      "snippet": {
+        "publishedAt": "2017-07-18T09:03:28Z",
+        "channelId": "UCrLRaBBdADYHTInXNYTrOSw",
+        "title": "EXO 엑소 'Ko Ko Bop' MV",
+        "description": "EXO's 4th full album \"THE WAR\" has been released. \nListen and download on iTunes & Apple Music, Spotify, and Google Play Music: \nEXO \"THE WAR - The 4th Album\" KOR Ver.: http://smarturl.it/THEWAR_KOR\nEXO \"THE WAR - The 4th Album\" CHN Ver.: http://smarturl.it/THEWAR_CHN\n\n[Tracklist]\n01 전야 (前夜) (The Eve)\n02 Ko Ko Bop\n03 What U do?\n04 Forever\n05 다이아몬드 (Diamond)\n06 너의 손짓 (Touch It)\n07 소름 (Chill)\n08 기억을 걷는 밤 (Walk On Memories)\n09 내가 미쳐 (Going Crazy)\n\nEXO Official\nhttp://exo.smtown.com\nhttp://www.youtube.com/weareoneEXO\nhttp://www.facebook.com/weareoneEXO\nhttp://twitter.com/weareoneexo\nhttp://www.instagram.com/weareone.exo\n\n#EXO #The_4th_album #THEWAR #TitleTrack #KoKoBop #Release #170718 #6PM\nEXO 엑소 'Ko Ko Bop' MV ℗ S.M.Entertainment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IdssuxDdqKk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IdssuxDdqKk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IdssuxDdqKk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IdssuxDdqKk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IdssuxDdqKk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "eriye900",
+        "playlistId": "PLgAWynvKDEDVaILn5viLCElGP0u0svWiS",
+        "position": 324,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IdssuxDdqKk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "IdssuxDdqKk",
+        "videoPublishedAt": "2017-07-18T09:00:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DL4OQI5S0PrSaOvPcvd-_e4FMws",
+      "id": "UExnQVd5bnZLREVEVmFJTG41dmlMQ0VsR1AwdTBzdldpUy5BNzUyMDFENjdEMDFBNTc5",
+      "snippet": {
+        "publishedAt": "2017-07-09T04:05:51Z",
+        "channelId": "UCrLRaBBdADYHTInXNYTrOSw",
+        "title": "Red Velvet 레드벨벳 '빨간 맛 (Red Flavor)' MV",
+        "description": "Red Velvet's Summer Mini Album \"The Red Summer\" has been released. \nListen and download on iTunes & Apple Music, Spotify, and Google Play Music http://smarturl.it/The_Red_Summer\n\n[Tracklist]\n01 빨간 맛 (Red Flavor)\n02 You Better Know\n03 Zoo\n04 여름빛 (Mojito)\n05 바다가 들려 (Hear The Sea)\n\nRed Velvet Official\nhttp://redvelvet.smtown.com\nhttp://www.youtube.com/redvelvet \nhttp://www.facebook.com/RedVelvet\nhttp://www.instagram.com/redvelvet.smtown\nhttp://twitter.com/RVsmtown\n\n#RedVelvet #SummerMiniAlbum #TheRedSummer #TitleTrack #RedFlavor #Release #170709\nRed Velvet 레드벨벳 '빨간 맛 (Red Flavor)' MV ℗ S.M.Entertainment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WyiIGEHQP8o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WyiIGEHQP8o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WyiIGEHQP8o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WyiIGEHQP8o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WyiIGEHQP8o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "eriye900",
+        "playlistId": "PLgAWynvKDEDVaILn5viLCElGP0u0svWiS",
+        "position": 325,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WyiIGEHQP8o"
+        }
+      },
+      "contentDetails": {
+        "videoId": "WyiIGEHQP8o",
+        "videoPublishedAt": "2017-07-09T04:00:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8b5qY0RiTiHE6hiU6oeaMnWuaHc",
+      "id": "UExnQVd5bnZLREVEVmFJTG41dmlMQ0VsR1AwdTBzdldpUy5BMjREMDIyOEE1QjQ1NDQ4",
+      "snippet": {
+        "publishedAt": "2017-06-27T17:21:07Z",
+        "channelId": "UCrLRaBBdADYHTInXNYTrOSw",
+        "title": "헤이즈 (Heize) - 비도 오고 그래서 (You, Clouds, Rain) (Feat. 신용재 (Shin Yong Jae)) MV",
+        "description": "너 먹구름 비\n\n\n1. 널 너무 모르고\n작사: 헤이즈(Heize)\n작곡: 헤이즈(Heize), GroovyRoom(그루비룸)\n편곡: GroovyRoom(그루비룸)\n\nproduced by 헤이즈(Heize), GroovyRoom(그루비룸)\nvocal arranged by 헤이즈 (Heize)\nchorus by 헤이즈(Heize)\n\n2. 먹구름 (feat. nafla)\n작사: 헤이즈(Heize), nafla\n작곡: 헤이즈(Heize), GroovyRoom(그루비룸)\n편곡: GroovyRoom(그루비룸)\n\nproduced by 헤이즈(Heize), GroovyRoom(그루비룸)\nvocal arranged by 헤이즈(Heize)\nchorus by 헤이즈(Heize) \n\n3. rainin' with u\n작곡: 다비(DAVII)\n편곡: 다비(DAVII)\n\nproduced by 다비(DAVII)\npiano by 다비(DAVII)\n\n4. 비도 오고 그래서 (feat. 신용재) \n작사: 헤이즈(Heize)\n작곡: 헤이즈(Heize), 다비(DAVII)\n편곡: 다비(DAVII)\n\nproduced by 헤이즈(Heize), 다비(DAVII)\nvocal arranged by 헤이즈(Heize)\nchorus by 헤이즈(Heize)\npiano by 다비(DAVII)\nguitar by 임민기\n\n5. 저 별 (rain ver.)\n작사: 헤이즈(Heize)\n작곡: 헤이즈(Heize), 다비(DAVII)\n편곡: 다비(DAVII)\n\nproduced by 헤이즈(Heize), 다비(DAVII)\nvocal arranged by 헤이즈(Heize)\nchorus by 헤이즈(Heize)\npiano 다비(DAVII)\nguitar 임민기\n\nmusic producer 헤이즈(Heize)\nrecorded by 배소윤\nmixed by 조준성 at Wsound\nMastered by 권남우 at 821 Sound Mastering\n\n아이튠즈, 애플뮤직 : https://itun.es/kr/RneQkb\n스포티파이 : http://spoti.fi/2tHCrzD\n\n\nCJ E&M Music은 아시아 No.1 엔터테인먼트 기업인 CJ E&M의 음악사업 브랜드로 음원/음반의 투자/제작/유통부터 콘서트/페스티벌 개최까지 포함하고 있습니다. CJ E&M MUSIC과 함께 하는 K-POP 아티스트들의 신곡과 뮤직비디오, 미공개 독점 영상 등을 이곳 YOUTUBE 채널에서 가장 먼저 만나보세요.\n\nCJ E&M Music is a music business brand of CJ E&M, Asia's No.1 entertainment company. CJ E&M Music covers investment, production and distribution of album and also provides the best music festival and concerts. Meet the K-POP artists' brand new music videos and exclusive video clips on the official YouTube of CJ E&M Music.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/afxLaQiLu-o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/afxLaQiLu-o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/afxLaQiLu-o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/afxLaQiLu-o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/afxLaQiLu-o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "eriye900",
+        "playlistId": "PLgAWynvKDEDVaILn5viLCElGP0u0svWiS",
+        "position": 326,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "afxLaQiLu-o"
+        }
+      },
+      "contentDetails": {
+        "videoId": "afxLaQiLu-o",
+        "videoPublishedAt": "2017-06-27T06:47:54Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EwortbFmB1FpZOUa2a61dmgWFZs",
+      "id": "UExnQVd5bnZLREVEVmFJTG41dmlMQ0VsR1AwdTBzdldpUy4yNkQ1NzY0MzVGMDYxNjAx",
+      "snippet": {
+        "publishedAt": "2017-06-22T12:17:27Z",
+        "channelId": "UCrLRaBBdADYHTInXNYTrOSw",
+        "title": "BLACKPINK - '마지막처럼 (AS IF IT'S YOUR LAST)' M/V",
+        "description": "Download on iTunes @ http://smarturl.it/BLACKPINK_3RD\n\nDownload on AppleMusic @ http://smarturl.it/3RD_BLACKPINK\n\n#BLACKPINK #블랙핑크 #마지막처럼 #ASIFITSYOURLAST #YG\n\nMore about BLACKPINK @\nhttp://www.blackpinkofficial.com/\nhttp://www.facebook.com/BLACKPINKOFFICIAL\nhttp://www.youtube.com/BLACKPINKOFFICIAL\nhttp://www.instagram.com/BLACKPINKOFFICIAL\nhttp://www.twitter.com/ygent_official",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Amq-qlqbjYA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Amq-qlqbjYA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Amq-qlqbjYA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Amq-qlqbjYA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Amq-qlqbjYA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "eriye900",
+        "playlistId": "PLgAWynvKDEDVaILn5viLCElGP0u0svWiS",
+        "position": 327,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Amq-qlqbjYA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Amq-qlqbjYA",
+        "videoPublishedAt": "2017-06-22T09:00:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nP3AaFrLFg7dHxdL0FvlT1RoR6s",
+      "id": "UExnQVd5bnZLREVEVmFJTG41dmlMQ0VsR1AwdTBzdldpUy4xN0Y1MzE4NDMyNDREMDRG",
+      "snippet": {
+        "publishedAt": "2017-04-21T09:31:46Z",
+        "channelId": "UCrLRaBBdADYHTInXNYTrOSw",
+        "title": "[MV] IU(아이유) _ Palette(팔레트) (Feat. G-DRAGON)",
+        "description": "[MV] IU(아이유) _ Palette(팔레트) (Feat. G-DRAGON)\n\n*English subtitles are now available. :D\n(Please click on 'CC' button or activate 'Interactive Transcript' function)\n\n:: Get the new album on : http://smarturl.it/iupalette\n\n▶1theK Originals : https://www.youtube.com/channel/UCqq-ovGE01ErlXakPihhKDA\n▶1theK FB  : http://www.facebook.com/1theK\n▶1theK TW : https://twitter.com/1theK\n▶1theK Kakao : https://goo.gl/otRpZc",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d9IxdwEFk1c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d9IxdwEFk1c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d9IxdwEFk1c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/d9IxdwEFk1c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/d9IxdwEFk1c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "eriye900",
+        "playlistId": "PLgAWynvKDEDVaILn5viLCElGP0u0svWiS",
+        "position": 328,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "d9IxdwEFk1c"
+        }
+      },
+      "contentDetails": {
+        "videoId": "d9IxdwEFk1c",
+        "videoPublishedAt": "2017-04-21T09:00:05Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "16GHuesmgbowKh0ijZ1AlfzW9t4",
+      "id": "UExnQVd5bnZLREVEVmFJTG41dmlMQ0VsR1AwdTBzdldpUy42MjVFOEMzNEVCNzhGMTk4",
+      "snippet": {
+        "publishedAt": "2017-04-04T09:25:46Z",
+        "channelId": "UCrLRaBBdADYHTInXNYTrOSw",
+        "title": "WINNER - 'REALLY REALLY' M/V",
+        "description": "Available on iTunes @ smarturl.it/WINNERFateNumberFor\nAvailable on Apple Music @ smarturl.it/WINNER444\n\n#WINNER #위너 #FATENUMBERFOR #REALLYREALLY #릴리릴리 #SINGLEALBUM #OUTNOW #NEWRELEASE #COMEBACK #0404 #4PM #YG\n\nMore about WINNER @ \nhttp://www.yg-winner.com/\nhttp://www.facebook.com/OfficialYGWINNER\nhttp://www.youtube.com/OfficialYGWINNER\nhttp://sptfy.com/OfficialYGWINNER\nhttp://weibo.com/winnerasia\nhttp://twitter.com/ygent_official",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4tBnF46ybZk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4tBnF46ybZk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4tBnF46ybZk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4tBnF46ybZk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4tBnF46ybZk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "eriye900",
+        "playlistId": "PLgAWynvKDEDVaILn5viLCElGP0u0svWiS",
+        "position": 329,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4tBnF46ybZk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "4tBnF46ybZk",
+        "videoPublishedAt": "2017-04-04T07:00:04Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "g96i0KwoeeNrBV1BtioBBjuqaOk",
+      "id": "UExnQVd5bnZLREVEVmFJTG41dmlMQ0VsR1AwdTBzdldpUy5DMkUxREVFOUM3NTE3QzI2",
+      "snippet": {
+        "publishedAt": "2017-02-12T15:30:30Z",
+        "channelId": "UCrLRaBBdADYHTInXNYTrOSw",
+        "title": "BTS (방탄소년단) '봄날 (Spring Day)' Official MV",
+        "description": "BTS (방탄소년단) '봄날 (Spring Day)' Official MV\n\n \nMusic video credits:\n\n\nDirector : YongSeok Choi (Lumpens)\nAssistant Directors : WonJu Lee (Lumpens)\nDirector of Photography : HyunWoo Nam(GDW)\nGaffer : HyunSuk Song (Real Lighting)\nArt Director : JinSil Park (MU:E)\nProducer : Emma SungEun kim (GE Production)\n\n\nBigHit Entertainment. All rights reserved. \nUnauthorized reproduction is a violation of applicable laws. \nManufactured by BigHit Entertainment, Seoul, Korea\n\n \nConnect with BTS:\nhttp://www.ibighit.com\nhttp://twitter.com/BTS_bighit\nhttp://twitter.com/BTS_twt\nhttp://www.facebook.com/bangtan.official\nhttp://instagram.com/BTS.bighitofficial\nhttp://weibo.com/BTSbighit\n\n\nGet ‘YOU NEVER WALK ALONE’ on:\niTunes: https://itunes.apple.com/album/you-never-walk-alone/id1204716563?l=ko&ls=1&app=itunes\nTidal: https://listen.tidal.com/album/70296880\nSpotify: https://open.spotify.com/album/64WayBZ9Mrx8iGOpME5vpI",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xEeFrLSkMm8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xEeFrLSkMm8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xEeFrLSkMm8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xEeFrLSkMm8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xEeFrLSkMm8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "eriye900",
+        "playlistId": "PLgAWynvKDEDVaILn5viLCElGP0u0svWiS",
+        "position": 330,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xEeFrLSkMm8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "xEeFrLSkMm8",
+        "videoPublishedAt": "2017-02-12T15:00:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "b-uIYt1IQWjybFTTtw4WiPB7vmo",
+      "id": "UExnQVd5bnZLREVEVmFJTG41dmlMQ0VsR1AwdTBzdldpUy5CQzM3M0NDRTI1N0M2QjE5",
+      "snippet": {
+        "publishedAt": "2017-01-04T10:04:30Z",
+        "channelId": "UCrLRaBBdADYHTInXNYTrOSw",
+        "title": "[MV] 우주소녀(WJSN) _ 너에게 닿기를(I Wish)",
+        "description": "Artist : 우주소녀(WJSN)\nTitle : 너에게 닿기를 (I Wish)\nRelease Date : 2017. 01. 04 00:00 AM\n\n▶ More Information\nhttp://www.starship-ent.com\nhttp://www.facebook.com/officialstarship\nhttps://www.facebook.com/officialcosm...\nhttp://twitter.com/WJSN_Cosmic\nhttp://instagram.com/wjsn_cosmic\nhttp://cafe.daum.net/WJSNcosmic",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GiT8zS8uIpg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GiT8zS8uIpg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GiT8zS8uIpg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GiT8zS8uIpg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "eriye900",
+        "playlistId": "PLgAWynvKDEDVaILn5viLCElGP0u0svWiS",
+        "position": 331,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GiT8zS8uIpg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "GiT8zS8uIpg",
+        "videoPublishedAt": "2017-01-04T03:00:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IaoFu8E9wIu_Qyo2Q6a-6neUUyk",
+      "id": "UExnQVd5bnZLREVEVmFJTG41dmlMQ0VsR1AwdTBzdldpUy5DQkY5RUExRTBBMEI4ODRC",
+      "snippet": {
+        "publishedAt": "2016-11-15T00:10:33Z",
+        "channelId": "UCrLRaBBdADYHTInXNYTrOSw",
+        "title": "SHINee 샤이니 'Tell Me What To Do' MV",
+        "description": "SHINee has released their 5th repackaged album “1 and 1”.\nListen and download on iTunes & Apple Music, Spotify, and Google Play Music http://smarturl.it/SHINee_1and1\n\nSHINee Official\nhttp://shinee.smtown.com\nhttp://www.youtube.com/shinee\nhttp://www.facebook.com/shinee\nhttp://www.instagram.com/shinee\n\nSHINee 샤이니 'Tell Me What To Do' MV ℗ S.M.Entertainment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nchkAmc49p4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nchkAmc49p4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nchkAmc49p4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nchkAmc49p4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nchkAmc49p4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "eriye900",
+        "playlistId": "PLgAWynvKDEDVaILn5viLCElGP0u0svWiS",
+        "position": 332,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nchkAmc49p4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "nchkAmc49p4",
+        "videoPublishedAt": "2016-11-15T00:00:22Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4UGL1fHeJ2KDFwDyDrWiP237-3M",
+      "id": "UExnQVd5bnZLREVEVmFJTG41dmlMQ0VsR1AwdTBzdldpUy4wQkU5NjE5RDUxM0U2OTFE",
+      "snippet": {
+        "publishedAt": "2016-11-01T22:50:43Z",
+        "channelId": "UCrLRaBBdADYHTInXNYTrOSw",
+        "title": "TAEYEON 태연 '11:11' MV",
+        "description": "TAEYEON’s new digital single “11:11” has been released. \nListen and download on iTunes & Apple Music, Spotify, and Google Play Music http://smarturl.it/TAEYEON_1111\n\nTAEYEON Official\nhttp://taeyeon.smtown.com\nhttp://www.youtube.com/GIRLSGENERATION\nhttp://www.facebook.com/girlsgeneration\nhttp://twitter.com/girlsgeneration\n\nTAEYEON 태연 '11:11' MV ℗ S.M.Entertainment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ulr0muQKjk0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ulr0muQKjk0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ulr0muQKjk0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ulr0muQKjk0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ulr0muQKjk0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "eriye900",
+        "playlistId": "PLgAWynvKDEDVaILn5viLCElGP0u0svWiS",
+        "position": 333,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ulr0muQKjk0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ulr0muQKjk0",
+        "videoPublishedAt": "2016-11-01T14:00:07Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Z9wfyRmSGby48deSCM3RxfJI-tM",
+      "id": "UExnQVd5bnZLREVEVmFJTG41dmlMQ0VsR1AwdTBzdldpUy5ERDJCQUZBMkVFRUU1Mzkz",
+      "snippet": {
+        "publishedAt": "2016-08-29T17:51:18Z",
+        "channelId": "UCrLRaBBdADYHTInXNYTrOSw",
+        "title": "[M/V] 우주를 줄게  - 볼빨간사춘기",
+        "description": "[M/V] 우주를 줄게 - 볼빨간사춘기(Bolppalgan Puberty)\n\n슈퍼사운드, 벅스!\n\nSUPER SOUND, BUGS!\n\n▶Bugs FB : https://www.facebook.com/bugsplay\n▶Bugs TW : https://twitter.com/Bugs_play\n▶Bugs G+ : https://plus.google.com/+Bugscorporation\n\n\nBugs : http://music.bugs.co.kr/album/585591\n\n\n온전히 그녀들만의 색으로 가득 채워진 별, 볼빨간사춘기의 Full Album [RED PLANET]\n특유의 순수한 소녀 감성으로 붉게 물들여져 있는 그녀들만의 세상은 어떤 세상일까?\n\n올해 4월 Half Album [RED ICKLE]을 발매하며 2016년 화제의 신인밴드로 주목 받고 있는 여성 듀오 볼빨간사춘기가 Half Album의 완성체인 Full Album [RED PLANET]으로 돌아왔다.\n\n더욱 다채롭고 깊어진 감성으로 촘촘하게 채워진 [RED PLANET]을 소개한다.\n\n01. 우주를 줄게\n사랑의 크기를 재는 물음에 지금까지 \"하늘만큼 땅만큼\"이라고 말했었다면, 오늘부터 그에 대한 내 사랑의 크기는 단언컨대 \"우주를 줄만큼\"이라고 대답할 것이다. 그녀의 세상에서 가장 큰 범위인 우주, 그 안에서 우주 비행사가 되어 어디든 그와 함께하고, 그의 곁에 머무는 반짝이는 별들과 은하수를 모두 주고 싶은 마음을 표현한 곡이다. 서정적이고 예쁜 가사와 밝은 멜로디가 돋보이는 곡이다.\n작사 : 안지영, 우지윤 / 작곡 : 안지영, 바닐라맨 / 편곡 : 바닐라맨\nAcoustic guitar: 바닐라맨 / Elec guitar: 이승엽 / Bass : 이동혁 / Chorus : 안지영\n\n02. 싸운날\n연애를 하다 보면 가끔 사소한 것에도 다투고 토라질 때가 있다. 싸운날은 말 그대로 남녀가 연애하면서 투닥투닥 싸운날을 귀여운 어린 소녀의 마음으로 표현한 곡이다. 처음에는 괜한 자존심을 내세우고 미워하다가도 시간이 지날수록 어쩔 줄 몰라 하며 상대방이 다시 처음으로 돌아와 주길 바라는 여리고 어린 감성이 잘 드러난다\n작사 안지영 / 작곡 안지영 / 편곡 바닐라맨\nAcoustic guitar 바닐라맨 / Elec guitar 이승엽 / Bass 김기범 / Chorus 안지영\n\n03. You(=I) \n누구나 처음 하는 연애는 서툴고 어색하다. 알쏭달쏭 확신할 수 없는 그의 속마음에 닿아보려 떼도 써보고, 욕심도 부려보는 내게 그와 닮아가는 것만큼 심장 떨리는 순간이 있을까? 여리고 순수한 첫 연애의 감정을 솔직하고 귀여운 가사로 담아낸 곡으로 중독적인 멜로디가 포인트인 곡이다.\n작사 : 안지영 / 작곡 : 안지영 / 편곡 : 바닐라맨\nAcoustic. Guitar : 바닐라맨 / Elec. Guitar : 이승엽 / Chorus : 안지영, 바닐라맨\n\n04. 심술\n괜히 내겐 차갑고, 어리다는 이유로 마음을 몰라주는 상대방에게 심술을 부리는 귀여운 악동 같은 소녀의 모습을 표현한 곡이다. 그에게 들러붙는 여자들을 슬쩍 괴롭히고 못된 행동만 골라 하는 자존심 센 그녀가 항상 그의 주위를 맴돌며 하고 싶었던 말은 “사실은 널 진짜 많이 좋아해”\n작사 안지영 / 작곡 안지영 / 편곡 바닐라맨\nGuitar 바닐라맨 / Chorus 안지영 \n\n05. 나만 안되는 연애 \n매번 만남과 헤어짐을 반복했지만, 결국 찾아온 이별에 대한 준비도 못 한 채 더 이상 나를 사랑하지 않는 그를 떠나보냈다. 아무 말도 못하고 받아들여야만 하는 현실에 마음이 더 쓰리다. 다시 돌아와 주길 바랄 수조차 없는 불공평한 연애에 대한 가슴 저린 심정을 담은 발라드 곡이다.\n작사 : 안지영 / 작곡 : 안지영, 바닐라맨 / 편곡 : 바닐라맨\nPiano : 바닐라맨 / Elec Guitar : 이승엽 / Chorus : 안지영\n\n06. 초콜릿\n초콜릿을 먹으면 누군가와 사랑에 빠졌을 때와 비슷한 감정을 느끼게 해 준다고 한다. 사랑에 빠졌을 때 설레고 좋아하는 감정을 달콤한 초콜릿에 비유한 곡으로 초콜릿에 중독된 것처럼 자꾸 만 찾게 되고 나만 보고 싶은 귀여운 소녀감성을 표현한 곡이다.\n작사 안지영, 우지윤 / 작곡 안지영, 바닐라맨 / 편곡 바닐라맨 \nAcoustic guitar 바닐라맨 / Elec guitar 이승엽 / Bass 김기범 / Chorus 안지영 \n\n07. 프리지아\n지난봄 나는 그에게 프리지아 꽃을 선물해 달라고 했다. 기약 없이 떠나버렸지만 함께 했던 우리의 추억 그리고 그 향기는 아직도 내게 남아있다. 다시 만날 수 있음을 굳게 믿고 여전히 프리지아 꽃을 기다리는 순수하고 말간 감성이 노오랗게 피어나는 곡이다.\n작사 : 안지영 / 작곡 : 안지영 / 편곡: 황종하\nElec. Guitar : 이승엽 / Chorus : 안지영\n\n08. X Song \n노래가 가진 힘은 생각보다 크다. 사람들을 웃게 하고 울리기도 하고 위로도 해준다. 또한 과거의 어느 시간 속에 기억과 추억을 가두어 두고 꺼내어 볼 수 있게 한다. X song은 문득 들려온 익숙한 노래에 잊은 줄 알았던 지난 일이 떠오르고 그때는 몰랐던 또 알 수 없었던 감정들을 뒤늦게 깨달아 아파하는 마음을 표현한 노래이다.\n작사 : 바닐라맨 / 작곡 : 바닐라맨 / 편곡 : 바닐라맨\nGuitar : 바닐라맨, Chorus : 안지영\n\n09. 반지\n‘난 괜찮아. 날 좋아해 줄 사람은 많아.’\n좋아해 줄 땐 아낌없이 다 내어주었던 상대방이 시간이 지나면서 소홀해지고 싫증 낼 때, \"내 손 가운데 있는 반지 너 줄게\"라며 쿨한 모습을 재치 있게 표현한 곡이다. \n작사 우지윤, 안지영 / 작곡 우지윤, 안지영 / 편곡 바닐라맨 \nAcoustic guitar 바닐라맨 / Elec guitar 이승엽 / Bass 이동혁 / Chorus 안지영\n\n10. 사랑에 빠졌을 때\n친구들은 어리숙한 그녀에게 모두 입을 모아 남자를 조심하라고 한다. 그녀 또한 더 이상 상처받고 싶지 않아 마음의 문을 굳게 닫았지만, 어디선가 살랑살랑 불어오는 바람에 또 한번 마음이 흔들린다. 첫눈에 반한 그와 사랑에 빠졌을 때 폭발적으로 벅차오르는 감성을 팝적인 요소와 함께 리드미컬하게 표현한 곡이다.\n작사 : 안지영 / 작곡 : 안지영 / 편곡 : 바닐라맨\nAcoustic Guitar : 바닐라맨 / Elec Guitar : 이승엽 / Chorus : 안지영\n\n11. 우주를 줄게 (Radio Edit) (CD Only)\nCD를 구입한 팬들을 위해 특별히 마련한 선물로 온라인에는 공개되지 않은 히든 트랙이다. 타이틀곡 ‘우주를 줄게’에서 보컬에 집중하여 편곡한 Radio Edit 버전으로, 원곡과는 또 다른 분위기를 느낄 수 있는 곡이다.\n\n[CREDITS] \n\nExecutive Producer by 신태권 for Shofar Music \nProducer by 바닐라맨, 신태권 \nRecorded by Vanilla studio ,Tomato studio\nMixed by 바닐라맨@Vanilla Studio, 김현곤@둡둡 Studio, 김종삼@Tomato Studio \nMastered by 바닐라맨@Vanilla Studio, 최효영@Suono Studio \nChief Manager by 정세웅\nManagement by 김민구, 조연범\nProduction A&R by 김민구, 이은정 \nOn Line Marketing by 이은정, 강지은, 곽민수, 김성두, 이정주 \nOff Line Marketing by 윈드밀 미디어 \nStylist by 조은비, 정세나, 이유미, 정유리 \nHair & Make up 양아름, 희진, 민규 \nM/V Director 이래경@BTS FILM, 홍원기@Zanybros, 카일@사이드킥스, 김기영@VFAR\nAlbum Photograph by 리에\n\nwww.shofar-music.com\nwww.facebook.com/shofarmusic\nwww.facebook.com/bolbbalgan4",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9U8uA702xrE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9U8uA702xrE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9U8uA702xrE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9U8uA702xrE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "eriye900",
+        "playlistId": "PLgAWynvKDEDVaILn5viLCElGP0u0svWiS",
+        "position": 334,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9U8uA702xrE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "9U8uA702xrE",
+        "videoPublishedAt": "2016-08-28T15:00:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zMFLbpXfKW6UGyMZHEcgUvYd7Qc",
+      "id": "UExnQVd5bnZLREVEVmFJTG41dmlMQ0VsR1AwdTBzdldpUy4wRTAyOUIyOUVDRTM4MThD",
+      "snippet": {
+        "publishedAt": "2016-07-05T15:17:27Z",
+        "channelId": "UCrLRaBBdADYHTInXNYTrOSw",
+        "title": "[MV] SEVENTEEN(세븐틴) _ VERY NICE(아주 NICE)",
+        "description": "[MV] SEVENTEEN(세븐틴) _ VERY NICE(아주 NICE)\n\n*English subtitles are now available. :D\n(Please click on 'CC' button or activate 'Interactive Transcript' function)\n\n:: iTunes : https://itunes.apple.com/album/love-letter-repackage-album/id1130828885?l=ko&ls=1&app=itunes\n\nSEVENTEEN released their 1st regular album 'LOVE&LETTER' and the title song ‘Pretty U’ on last April. Like their reputation, as known as self-production idol, this time are showing that they have matured more. This time they are releasing their repackage album on midnight of July 4th.  \nThis album is made for the fans, who has shown their great love towards SEVENTEEN during the last album PRETTY Activity period. It is made up of the songs from ‘LOVE&LETTER’ along with five new songs. In total there will be 15 songs, and the fans will be able to see the special colors of SEVENTEEN. \n \n\n▶1theK FB  : http://www.facebook.com/1theK\n▶1theK TW : https://twitter.com/1theK\n▶1theK G+ : https://plus.google.com/+1theK\n\n去る4月、1stフルアルバム『LOVE＆LETTER』のタイトル曲「きれい」で、‘自主制作アイドル‘という名声にふさわしく、さらに成長した姿を見せて多くの愛を受けたSEVENTEENが、7月4日の深夜リパッケージアルバムをリリースする。\n今回のアルバムは、過去「きれい」の活動の際、熱い愛を送ってくれたファンに感謝の気持ちを伝えるために企画したもの。既存の『LOVE＆LETTER』の収録曲に新曲5曲を加え全15曲で構成されており、さらに豊かなSEVENTEENの音楽色を感じることができる。\n\n\n\n지난 4월 첫 번째 정규앨범 'LOVE&LETTER'의 타이틀곡 '예쁘다'로 '자체제작 아이돌'이라는 명성에 걸맞게 한층 더 성장한 모습을 보여주며 많은 사랑을 받은 세븐틴이 오는 7월 4일 자정 리패키지 앨범을 발표한다.\n\n이번 앨범은 지난 '예쁘다' 활동에 뜨거운 사랑을 보내준 팬들에게 감사의 마음을 전하고자 기획된 것. 기존 'LOVE&LETTER'의 수록곡과 신곡 5곡을 더한 총 15곡으로 구성되어 있으며, 한층 풍성한 세븐틴만의 음악 색깔을 느낄 수 있다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J-wFp43XOrA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J-wFp43XOrA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J-wFp43XOrA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/J-wFp43XOrA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "eriye900",
+        "playlistId": "PLgAWynvKDEDVaILn5viLCElGP0u0svWiS",
+        "position": 335,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "J-wFp43XOrA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "J-wFp43XOrA",
+        "videoPublishedAt": "2016-07-03T16:23:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-4VRWy3gJ7yVsXM019Hzm2WLbOU",
+      "id": "UExnQVd5bnZLREVEVmFJTG41dmlMQ0VsR1AwdTBzdldpUy45REQ1MDIyMTE1RjM0MjRG",
+      "snippet": {
+        "publishedAt": "2016-06-27T16:32:38Z",
+        "channelId": "UCrLRaBBdADYHTInXNYTrOSw",
+        "title": "TAEYEON 태연 'Why' MV",
+        "description": "TAEYEON’s 2nd mini album \"Why\" has been released.\nListen and download on iTunes & Apple Music, Spotify, and Google Play Music http://smarturl.it/TAEYEON_Why\n\nTAEYEON Official\nhttp://taeyeon.smtown.com\nhttp://www.youtube.com/GIRLSGENERATION\nhttp://www.facebook.com/girlsgeneration\nhttp://twitter.com/girlsgeneration\n\nTAEYEON 태연 'Why' MV ℗ S.M.Entertainment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WkdtmT8A2iY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WkdtmT8A2iY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WkdtmT8A2iY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WkdtmT8A2iY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WkdtmT8A2iY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "eriye900",
+        "playlistId": "PLgAWynvKDEDVaILn5viLCElGP0u0svWiS",
+        "position": 336,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WkdtmT8A2iY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "WkdtmT8A2iY",
+        "videoPublishedAt": "2016-06-27T15:00:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZX-fDPYx5J-Z6XZeJL3U1xhR_s8",
+      "id": "UExnQVd5bnZLREVEVmFJTG41dmlMQ0VsR1AwdTBzdldpUy43Mjk5MUFDRDQxQjYxQjNG",
+      "snippet": {
+        "publishedAt": "2016-06-08T16:48:28Z",
+        "channelId": "UCrLRaBBdADYHTInXNYTrOSw",
+        "title": "EXO 엑소 'Monster' MV",
+        "description": "EXO has released their 3rd full album “EX’ACT” with double title tracks “Monster” and “Lucky One”. \nListen and download on iTunes & Apple Music, Spotify, and Google Play Music http://smarturl.it/EXO_EXACT\n\nEXO Official\nhttp://exo.smtown.com\nhttp://www.youtube.com/weareoneEXO\nhttp://www.facebook.com/weareoneEXO\nhttp://twitter.com/weareoneexo\nhttp://www.instagram.com/weareone.exo\n\nEXO 엑소 'Monster' MV ℗ S.M.Entertainment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KSH-FVVtTf0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KSH-FVVtTf0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KSH-FVVtTf0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KSH-FVVtTf0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KSH-FVVtTf0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "eriye900",
+        "playlistId": "PLgAWynvKDEDVaILn5viLCElGP0u0svWiS",
+        "position": 337,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KSH-FVVtTf0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "KSH-FVVtTf0",
+        "videoPublishedAt": "2016-06-08T16:09:06Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zroA0vu_opil0JOaKMBRD4gkihw",
+      "id": "UExnQVd5bnZLREVEVmFJTG41dmlMQ0VsR1AwdTBzdldpUy4zQzMxMjVBMkQ0MDBCQjQx",
+      "snippet": {
+        "publishedAt": "2016-04-24T18:00:25Z",
+        "channelId": "UCrLRaBBdADYHTInXNYTrOSw",
+        "title": "TWICE \"CHEER UP\" M/V",
+        "description": "TWICE(트와이스) \"CHEER UP\" M/V \n\nThe 5th Mini Album \"What is Love?\" \nSpotify https://goo.gl/jVLYYY\niTunes & Apple Music https://goo.gl/DKyKZf\n\nThe 2nd Mini Album \"PAGE TWO\"\nSpotify https://goo.gl/4Rk6ut\niTunes and Apple Music\nhttps://itunes.apple.com/us/album/page-two-ep/id1107528987 \n\nTWICE Official YouTube: http://www.youtube.com/c/TWICEonAir \nTWICE Official Facebook: http://www.facebook.com/JYPETWICE\nTWICE Official Twitter: http://www.twitter.com/JYPETWICE\nTWICE Official Instagram: http://www.instagram.com/TWICETAGRAM\nTWICE Fan's: http://fans.jype.com/TWICE\nTWICE Official Homepage: http://TWICE.jype.com \n\n#TWICE #CHEERUP\n\nCopyrights 2016 ⓒ JYP Entertainment. All Rights Reserved.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c7rCyll5AeY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c7rCyll5AeY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c7rCyll5AeY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/c7rCyll5AeY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "eriye900",
+        "playlistId": "PLgAWynvKDEDVaILn5viLCElGP0u0svWiS",
+        "position": 338,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "c7rCyll5AeY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "c7rCyll5AeY",
+        "videoPublishedAt": "2016-04-24T15:00:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JGA6AUEXtVTR_SLv23s1UzAQixk",
+      "id": "UExnQVd5bnZLREVEVmFJTG41dmlMQ0VsR1AwdTBzdldpUy41QkVCQUZDRTQ5QzI0MDlF",
+      "snippet": {
+        "publishedAt": "2016-02-13T17:58:50Z",
+        "channelId": "UCrLRaBBdADYHTInXNYTrOSw",
+        "title": "여자친구 GFRIEND - 시간을 달려서(ROUGH) M/V",
+        "description": "GFRIEND 여자친구 facebook: http://www.facebook.com/gfrdofficial\nGFRIEND 여자친구 twitter: http://twitter.com/gfrdofficial\nGFRIEND 여자친구 instagram: http://instagram.com/gfriendofficial",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r_6q_-d-7Sk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r_6q_-d-7Sk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r_6q_-d-7Sk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/r_6q_-d-7Sk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/r_6q_-d-7Sk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "eriye900",
+        "playlistId": "PLgAWynvKDEDVaILn5viLCElGP0u0svWiS",
+        "position": 339,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "r_6q_-d-7Sk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "r_6q_-d-7Sk",
+        "videoPublishedAt": "2016-01-24T15:00:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OQhBl2oDnYdIi0BF0-fOLEQR1xQ",
+      "id": "UExnQVd5bnZLREVEVmFJTG41dmlMQ0VsR1AwdTBzdldpUy5DNEM3M0M1QjI4MEQ0RjA0",
+      "snippet": {
+        "publishedAt": "2015-09-09T02:17:05Z",
+        "channelId": "UCrLRaBBdADYHTInXNYTrOSw",
+        "title": "Red Velvet 레드벨벳 'Dumb Dumb' MV",
+        "description": "Red Velvet have released their first full album \"The Red\" .\nhttps://itunes.apple.com/album/the-red-the-1st-album/id1037732950\n\nRed Velvet Official\nhttp://redvelvet.smtown.com\nhttp://www.youtube.com/redvelvet \nhttp://www.facebook.com/RedVelvet\nhttp://www.instagram.com/redvelvet.smtown\nhttp://twitter.com/RVsmtown\n\nRed Velvet 레드벨벳 'Dumb Dumb' MV ℗ S.M.Entertainment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XGdbaEDVWp0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XGdbaEDVWp0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XGdbaEDVWp0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XGdbaEDVWp0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XGdbaEDVWp0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "eriye900",
+        "playlistId": "PLgAWynvKDEDVaILn5viLCElGP0u0svWiS",
+        "position": 340,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XGdbaEDVWp0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "XGdbaEDVWp0",
+        "videoPublishedAt": "2015-09-08T13:00:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ToiGXIZZWCZzg51WAgdEx1UgEuU",
+      "id": "UExnQVd5bnZLREVEVmFJTG41dmlMQ0VsR1AwdTBzdldpUy40MkJFNUMzMTJDNkVFQjEy",
+      "snippet": {
+        "publishedAt": "2013-03-29T05:06:53Z",
+        "channelId": "UCrLRaBBdADYHTInXNYTrOSw",
+        "title": "Girls' Generation 소녀시대 'The Boys' MV (KOR Ver.)",
+        "description": "Listen and download on iTunes & Apple Music\nhttp://itunes.apple.com/us/album/the-boys-single/id473110477\n\nGirls' Generation Official\nhttp://girlsgeneration.smtown.com\nhttp://www.youtube.com/GIRLSGENERATION\nhttp://www.facebook.com/girlsgeneration\nhttp://twitter.com/girlsgeneration\n\nGirls' Generation 소녀시대 'The Boys' MV (KOR Ver.) ℗ S.M.Entertainment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6pA_Tou-DPI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6pA_Tou-DPI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6pA_Tou-DPI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6pA_Tou-DPI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6pA_Tou-DPI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "eriye900",
+        "playlistId": "PLgAWynvKDEDVaILn5viLCElGP0u0svWiS",
+        "position": 341,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6pA_Tou-DPI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "6pA_Tou-DPI",
+        "videoPublishedAt": "2011-10-18T15:06:40Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 342,
+    "resultsPerPage": 50
+  }
+}
